@@ -11,7 +11,7 @@ Trabalhos de Estudos em Ciência da Computação.
 
 ## Related
 
-* [Aplicação em Dijkstra em C++ com interface](https://github.com/Haiga/DijkstraC)
+* [Algoritmo Dijkstra em C++ com interface](https://github.com/Haiga/DijkstraC)
 
 * [Algoritmos de Agrupamentos em Cluster](https://github.com/Haiga/ClusterMineracaoDeDados)
 
