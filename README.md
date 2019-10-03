@@ -15,8 +15,8 @@ Trabalhos de Estudos em Ciência da Computação.
 
 * [Algoritmos de Agrupamentos em Cluster](https://github.com/Haiga/ClusterMineracaoDeDados)
 
-* [Algoritmos Genético aplicados ao Teste de Einsten](https://github.com/Haiga/ga_teste_einstein)
+* [Algoritmos Genético aplicados ao Teste de Einsten](https://github.com/Haiga/gaTesteEinstein)
 
 * [Pipeline de Aprendizado de Máquina](https://github.com/Haiga/machineLearning)
 
-* [Otimização com Método Simplex](https://github.com/Haiga/simplex_python_interface)
+* [Otimização com Método Simplex](https://github.com/Haiga/simplexPython)
