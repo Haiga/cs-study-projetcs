@@ -1,5 +1,5 @@
 # Trabalhos
-Trabalhos de Estudos em Ciência da Computação.
+Estudos em Ciência da Computação.
 
 ## Getting Started
 
